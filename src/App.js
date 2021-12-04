@@ -107,7 +107,7 @@ function App() {
             <Nav.Link href="/home" style={{ color: 'white' }}>Home</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link eventKey="link-1" href="/product" style={{ color: 'white' }}>Productos</Nav.Link>
+            <Nav.Link eventKey="link-1" href="/product" style={{ color: 'white' }}>Productos de SupertexInc</Nav.Link>
           </Nav.Item>
         </Nav>
         <br />
